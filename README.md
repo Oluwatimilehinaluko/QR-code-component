@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/Oluwatimilehinaluko
-- Live Site URL: https://github.com/Oluwatimilehinaluko
+- Solution URL: Oluwatimilehinaluko/qr-code-component
+- Live Site URL: Oluwatimilehinaluko/qr-code-component
 
 ## My process
 
